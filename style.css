@@ -1,0 +1,11 @@
+.carousel-item{
+	height: 400px;
+}
+.carousel-item:hover{
+	transform: scale(1.1);
+}
+
+.headingtext{
+	color: grey;
+	margin: 50px;
+}
